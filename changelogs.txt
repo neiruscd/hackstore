@@ -1,3 +1,6 @@
+version 2.7 Free Сборка 101
+[~]Исправлена ссылка на Spotify Mod
+
 version 2.6 Free сборка 100
 [~]Hotfix обвновлений.
 
