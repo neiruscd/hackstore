@@ -1,1 +1,1 @@
-https://github.com/neiruscd/QManager/releases/download/v5.0-stable/QManager.apk
+https://github.com/neiruscd/QManager/releases/download/v5.1-stable/QManager.apk
