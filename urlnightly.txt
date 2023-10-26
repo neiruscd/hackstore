@@ -1,1 +1,1 @@
-https://github.com/neiruscd/hackstore/releases/download/4.0/QManager.apk
+https://github.com/neiruscd/QManager/releases/download/v5.3-unstable/QManager.apk
